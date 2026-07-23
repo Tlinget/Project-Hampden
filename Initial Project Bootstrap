@@ -1,0 +1,19 @@
+Project-Hampden
+│
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── .gitignore
+│
+├── development/
+│   ├── DEV-001_Project_Vision.md
+│   ├── DEV-002_Roadmap.md
+│   ├── DEV-003_Design_Decisions.md
+│   └── DEV-004_Reference_Log.md
+│
+└── addon/
+    └── project_hampden/
+        ├── __init__.py
+        ├── ui.py
+        ├── project.py
+        ├── utils.py
